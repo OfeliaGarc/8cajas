@@ -1,0 +1,24 @@
+div { 
+	height: 130px;
+	width: 130px;
+	margin-bottom: 40px;
+	border: gray 3px dashed;
+	background-color: blue;
+} 
+.gra {
+	height: 150px;
+	width: 580px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	background-color: yellow;
+}
+.juntas {
+	display: inline-block;
+	margin-left: 15px;
+}
+.hermanas {
+	display: inline-block;
+}
+p {
+	display: inline;
+}/* Inserta tu CSS aqui */
